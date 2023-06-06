@@ -120,6 +120,50 @@ cti.uncoder.io
 👉QRadar - Jose Bravo - https://www.youtube.com/watch?v=P90e4iEJ32s&
 Credit goes to Mohammed Eissa  https://www.linkedin.com/in/mohessa511/
 Check out my Free course on Introduction to Cybersecurity: https://cybersectechacademy.thinkific.com/
+🔰 SOC SIEM Use Cases
+🛡️ Below is a list of sample use cases. You can categorize it in multiple ways.
+👉 Windows Use Cases
+Server Shutdown/ Reboot
+Removable media detected
+Windows abnormal shutdown
+Login attempts with the same account from different source desktops
+Detection of Server shutdown-reboot after office hours
+Administrative Group Membership Changed
+Unauthorized Default Account Logins
+Interactive use of service account
+Remote access login – success & failure
+Windows Service Stop-Restart
+ACL Set on Admin Group members
+Windows Account Enabled Disabled
+Multiple Windows Account Locked out
+Multiple Windows Logins by Same User
+Brute force attempt from the same source
+Logins outside normal business hours
+Logins to multiple users accounts from the same source.
+Brute force attempt from the same source with a successful login.
+Windows Account Created Deleted
+Windows Hardware Failure
+Failed Login to Multiple Destinations from Same Source
+Administrative Accounts- Multiple Login failure
+Detection of user account added/removed in admin group
+Detection of system time changes (Boot time)
+Detection of use of default product vendor accounts
+User Deleted Within 24hrs of Being Created
+Critical service stopped on Windows Servers
+Windows Security Log is full
+Multiple Password Changes in a Short time period
+Windows group type was changed.
+Audit Policy change
+Audit Log cleared
+Windows Security Log is full
+Detection of user account added
+Logon Failure-A logon attempt was made using an expired account
+High number of users created/ removed within a short period of time
+Outbound Traffic observed from Severs to Internet.
+Failed Logins/Attempt with Disabled/Ex-Employee/Expired Accounts
+Windows File-Folder Delete
+Windows-File Folder Permission Changes
+High number of users were created/removed within a short period of time
 
 > Document and show your skills on your resume.
 
